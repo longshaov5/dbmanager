@@ -1,2 +1,2 @@
 # dbmanager
-test
+test info
